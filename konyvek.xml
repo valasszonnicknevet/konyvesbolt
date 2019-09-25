@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf8" ?>
+<KONYVESBOLT>
+    <KONYV>
+        <SZERZO>Szunyoghy András</SZERZO>
+        <CIM>Madarak rajzolása</CIM>
+        <OLDALSZAM>48</OLDALSZAM>
+        <AR>2490</AR>
+        <AR-AKCIOS>2365</AR-AKCIOS>
+        <KEP>madARak-rajzolasa.jpg</KEP>
+    </KONYV>
+    <KONYV>
+        <SZERZO>Molnár Gabriella</SZERZO>
+        <CIM>Amiről az orvos nem mindig beszél</CIM>
+        <OLDALSZAM>82</OLDALSZAM>
+        <AR>695</AR>
+        <AR-AKCIOS>660</AR-AKCIOS>
+        <KEP>amirol-az-orvos.jpg</KEP>
+    </KONYV>
+    <KONYV>
+        <SZERZO>Temesi Viola</SZERZO>
+        <CIM>Elmét vidító magyar népmesék</CIM>
+        <OLDALSZAM>152</OLDALSZAM>
+        <AR>2490</AR>
+        <AR-AKCIOS>2365</AR-AKCIOS>
+        <KEP>elmet-vidito.jpg</KEP>
+    </KONYV>
+    <KONYV>
+        <SZERZO>Delphine de Vigan</SZERZO>
+        <CIM>Láthatatlan láncok</CIM>
+        <OLDALSZAM>148</OLDALSZAM>
+        <AR>2850</AR>
+        <AR-AKCIOS>2707</AR-AKCIOS>
+        <KEP>lathatatlan-lancok.jpg</KEP>
+    </KONYV>
+    <KONYV>
+        <SZERZO>Czakó Zsófia</SZERZO>
+        <CIM>Nagypénteken nem illik kertészkedni</CIM>
+        <OLDALSZAM>208</OLDALSZAM>
+        <AR>2990</AR>
+        <AR-AKCIOS>2840</AR-AKCIOS>
+        <KEP>nagypenteken-nem-illik.jpg</KEP>
+    </KONYV>
+    <KONYV>
+        <SZERZO>Veszprémy László Bernát</SZERZO>
+        <CIM>Gyilkos irodák</CIM>
+        <OLDALSZAM>278</OLDALSZAM>
+        <AR>3490</AR>
+        <AR-AKCIOS>3315</AR-AKCIOS>
+        <KEP>gyilkos-irodak.jpg</KEP>
+    </KONYV>
+</KONYVESBOLT>

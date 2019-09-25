@@ -1,0 +1,79 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    font-family: "Roboto";
+}
+body{
+    background: #f1f1f1;
+}
+section#konyvesbolt{
+    max-width: 800px;
+    width: 100%;
+    margin: 50px auto;
+}
+section#konyvesbolt aside#konyvek div#konyv{
+    display: flex;
+    margin: 20px 0px;
+    flex-wrap: wrap;
+    background: #fff;
+    box-shadow: 0px 0px 3px rgba(0,0,0,0.1);
+}
+section#konyvesbolt aside#konyvek div#konyv div.image{
+    width: 30%;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text{
+    padding-left: 20px;
+    padding-top: 20px;
+    width: 70%;
+    position: relative;
+    box-sizing: border-box;
+    display: block;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text h3{
+    font-size: 30px;
+    text-transform: uppercase;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text small{
+    font-size: 20px;
+    display: flex;
+    align-items: center;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text small span{
+    font-size: 14px;
+    margin-left: 10px;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text li{
+    list-style: none;
+    font-size: 40px;
+    text-align: right;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text li.def-price{
+    color: #4c4c4c;
+    font-size: 30px;
+    text-decoration: line-through;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text div.ar{
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text div.ar a{
+    display: block;
+    text-decoration: none;
+    padding: 15px;
+    background: #4c4c4c;
+    color: white;
+    margin-top: 20px;
+    text-align: center;
+    font-size: 13px;
+    text-transform: uppercase;
+    transition: all 500ms;
+}
+section#konyvesbolt aside#konyvek div#konyv div.text div.ar a:hover{
+    background: #1ed760;
+    transition: all 500ms;
+}
+section#konyvesbolt aside#konyvek div#konyv img{
+    display: block;
+}
